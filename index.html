@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home | bluesaltlabs.github.io</title>
+  <link rel="icon" type="image/svg+xml" href="/bluesaltlabs-logo.svg" />
+
+    <!-- Styles -->
+    <!-- todo: figure out why styles aren't laoding when using github pages. ... -->
+
+    <!-- <link rel="stylesheet" href="/src/styles/styles.css" /> -->
+    <style>
+    :root {
+      /*  */
+    }
+
+    body, html {
+      background: #222222;
+      color: #eeeeee;
+      font-family: Verdana, sans-serif;
+    }
+
+    a {
+      color: #ededed;
+      text-decoration: none;
+      background: #eeeeee22;
+      transform: scale(1);
+      transition: transform 50ms ease-in-out;
+      display: inline-block;
+
+      &:active,
+      &:hover {
+        color: #ffffff;
+        transform: scale(1.1);
+        background: #eeeeee44;
+        text-decoration: underline;
+      }
+    }
+
+    header,
+    nav {
+      padding: 5px 4px;
+      margin-bottom: 5px;
+      border: 0px solid #ededed44;
+      border-bottom-width: 1px;;
+    }
+
+    header a,
+    nav a {
+      border: 1px solid #fff;
+      padding: 2px 4px;
+
+      display: inline-block;
+      margin: 0 4px;
+      border-radius: 3px;
+      background: #ededed44;
+
+      &:hover,
+      &:active {
+        background: #ededed11;
+      }
+
+      & > img {
+        height: 22px;
+        width: 22px;
+        margin: -4px auto;
+      }
+
+    }
+
+    </style>
+
+</head>
+<body>
+  <header>
+    <!-- todo -->
+    <a href="#home">
+      <img src="bluesaltlabs-logo.svg" height="100%" width="100%" />
+    </a>
+  </header>
+  <!--
+  <nav>
+    <a href="#about"><span></span>About</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+    <a href="#todo">todo</a>
+  </nav>
+   -->
+  <main id="main">
+
+    <section id="home">
+      <h1>BlueSalt Labs GitHub Home</h1>
+      <article style="max-width: 500px;padding:8px;border:1px solid #cccccc80;">
+        <p>Hello.</p>
+        <p>Why is this page empty? Good question!</p>
+        <hr />
+        <p>
+          Currently this website is being rebuilt as a <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> project.
+          The process will be documented here soon, so stay tuned!
+        </p>
+      </article>
+
+    </section>
+
+
+  </main>
+</body>
+</html>
