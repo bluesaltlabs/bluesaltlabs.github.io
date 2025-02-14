@@ -1,2 +1,2 @@
 # bluesaltlabs.github.io
-Demo BlueSaltLabs GitHub Pages page. 
+GitHub Pages page for BlueSalt Labs.

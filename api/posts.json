@@ -1,8 +1,148 @@
 {
   "posts": [
-    {
+      {
       "id": 1,
-      "title": "first post"
+      "title": "First/Test Blog Post",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-01-28 00:00:00",
+      "categories": ["General"],
+      "updatedAt": "2025-01-28 00:00:00",
+      "publishedAt": null
+    },
+    {
+      "id": 2,
+      "title": "GitHub Pages Setup Notes",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-11 18:00:00",
+      "categories": ["General", "DevOps"],
+      "updatedAt": "2025-02-11 18:35:00",
+      "publishedAt": "2025-02-11 18:35:00"
+    },
+    {
+      "id": 3,
+      "title": "Hello, GitHub Pages!",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "DevOps", "GitHub Pages"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 4,
+      "title": "Setting Custom GitHub Pages DNS",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "DevOps", "GitHub Pages"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 5,
+      "title": "Loading Static Data (And Creating a Blog)",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "DevOps", "GitHub Pages"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 6,
+      "title": "SEO Best Practices",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "SEO", "DevOps", "GitHub Pages"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 7,
+      "title": "Setting Up a Portfolio Page",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 8,
+      "title": "'What are all these projects for?'",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "DevOps"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 9,
+      "title": "Why Was The Blog So Difficult To Set Up?",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "DevOps"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 10,
+      "title": "Block Schedule Tracking",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 11,
+      "title": "LLMs: How I use them locally",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "LLM"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 12,
+      "title": "Test using LLMs on other hardware",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "LLM"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 13,
+      "title": "Note-Taking Techniques",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 14,
+      "title": "Introducing Lit.js & the Web Components API",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "Learning"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 15,
+      "title": "Practicing Design Patterns in JavaScript",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General", "Learning"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
+    },
+    {
+      "id": 16,
+      "title": "PyGame (and the snowboard game)",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-12 11:15:00",
+      "categories": ["General"],
+      "updatedAt": "2025-02-12 11:15:00",
+      "publishedAt": null
     }
   ]
 }

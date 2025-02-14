@@ -1,0 +1,57 @@
+ :root {
+   /*  */
+ }
+
+ body, html {
+   background: #222222;
+   color: #eeeeee;
+   font-family: Verdana, sans-serif;
+ }
+
+ a {
+   color: #ededed;
+   text-decoration: none;
+   background: #eeeeee22;
+   transform: scale(1);
+   transition: transform 50ms ease-in-out;
+   display: inline-block;
+
+   &:active,
+   &:hover {
+     color: #ffffff;
+     transform: scale(1.1);
+     background: #eeeeee44;
+     text-decoration: underline;
+   }
+ }
+
+ header,
+ nav {
+   padding: 5px 4px;
+   margin-bottom: 5px;
+   border: 0px solid #ededed44;
+   border-bottom-width: 1px;;
+ }
+
+ header a,
+ nav a {
+   border: 1px solid #fff;
+   padding: 2px 4px;
+
+   display: inline-block;
+   margin: 0 4px;
+   border-radius: 3px;
+   background: #ededed44;
+
+   &:hover,
+   &:active {
+     background: #ededed11;
+   }
+
+   & > img {
+     height: 22px;
+     width: 22px;
+     margin: -4px auto;
+   }
+
+ }
