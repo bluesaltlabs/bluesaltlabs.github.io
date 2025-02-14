@@ -3,7 +3,9 @@
     {
       "id": 1,
       "title": "GitHub Pages Setup Preview",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "I am working on a series of posts explainingGitHub pages and Cloudflare pages deployment. Stay tuned.",
       "createdAt": "2025-02-11 18:00:00",
       "categories": ["General", "DevOps"],
       "updatedAt": "2025-02-11 18:35:00",
@@ -12,7 +14,9 @@
     {
       "id": 2,
       "title": "Blog Difficulties and New Configuration",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-13 21:25:00",
       "categories": ["General", "DevOps"],
       "updatedAt": "2025-02-13 22:00:00",
@@ -21,7 +25,9 @@
     {
       "id": 3,
       "title": "Hello, GitHub Pages!",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "DevOps", "GitHub Pages"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -30,7 +36,9 @@
     {
       "id": 4,
       "title": "Setting Custom GitHub Pages DNS",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "DevOps", "GitHub Pages"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -39,7 +47,9 @@
     {
       "id": 5,
       "title": "Loading Static Data (And Creating a Blog)",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "DevOps", "GitHub Pages"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -48,7 +58,9 @@
     {
       "id": 6,
       "title": "SEO Best Practices",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "SEO", "DevOps", "GitHub Pages"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -66,7 +78,9 @@
     {
       "id": 8,
       "title": "'What are all these projects for?'",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "DevOps"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -75,7 +89,9 @@
     {
       "id": 9,
       "title": "Why Was The Blog So Difficult To Set Up?",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "DevOps"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -84,7 +100,9 @@
     {
       "id": 10,
       "title": "Block Schedule Tracking",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -93,7 +111,9 @@
     {
       "id": 11,
       "title": "LLMs: How I use them locally",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "LLM"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -102,7 +122,9 @@
     {
       "id": 12,
       "title": "Test using LLMs on other hardware",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "LLM"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -111,7 +133,9 @@
     {
       "id": 13,
       "title": "Note-Taking Techniques",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -120,7 +144,9 @@
     {
       "id": 14,
       "title": "Introducing Lit.js & the Web Components API",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "Learning"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -129,7 +155,9 @@
     {
       "id": 15,
       "title": "Practicing Design Patterns in JavaScript",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General", "Learning"],
       "updatedAt": "2025-02-12 11:15:00",
@@ -138,7 +166,9 @@
     {
       "id": 16,
       "title": "PyGame (and the snowboard game)",
+      "description": "",
       "author": "Luke Sontrop",
+      "excerpt": "",
       "createdAt": "2025-02-12 11:15:00",
       "categories": ["General"],
       "updatedAt": "2025-02-12 11:15:00",
