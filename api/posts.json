@@ -3,24 +3,24 @@
     {
       "id": 1,
       "title": "GitHub Pages Setup Preview",
-      "description": "",
+      "description": "First Blog Post - working on a series of posts explaining how to deploy a website.",
       "author": "Luke Sontrop",
-      "excerpt": "I am working on a series of posts explainingGitHub pages and Cloudflare pages deployment. Stay tuned.",
+      "excerpt": "I am working on a series of posts explaining GitHub pages and Cloudflare pages deployment. Stay tuned.",
       "createdAt": "2025-02-11 18:00:00",
       "categories": ["General", "DevOps"],
-      "updatedAt": "2025-02-11 18:35:00",
+      "updatedAt": "2025-02-14 14:40:00",
       "publishedAt": "2025-02-11 18:35:00"
     },
     {
       "id": 2,
       "title": "Blog Difficulties and New Configuration",
-      "description": "",
+      "description": "Learn about the challenges I faced while setting up my blog and how I resolved them.",
       "author": "Luke Sontrop",
       "excerpt": "",
       "createdAt": "2025-02-13 21:25:00",
       "categories": ["General", "DevOps"],
-      "updatedAt": "2025-02-13 22:00:00",
-      "publishedAt": "2025-02-13 21:25:00"
+      "updatedAt": "2025-02-14 14:40:00",
+      "publishedAt": "2025-02-14 14:40:00"
     },
     {
       "id": 3,
