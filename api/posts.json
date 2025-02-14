@@ -1,22 +1,22 @@
 {
   "posts": [
-      {
-      "id": 1,
-      "title": "First/Test Blog Post",
-      "author": "Luke Sontrop",
-      "createdAt": "2025-01-28 00:00:00",
-      "categories": ["General"],
-      "updatedAt": "2025-01-28 00:00:00",
-      "publishedAt": null
-    },
     {
-      "id": 2,
-      "title": "GitHub Pages Setup Notes",
+      "id": 1,
+      "title": "GitHub Pages Setup Preview",
       "author": "Luke Sontrop",
       "createdAt": "2025-02-11 18:00:00",
       "categories": ["General", "DevOps"],
       "updatedAt": "2025-02-11 18:35:00",
       "publishedAt": "2025-02-11 18:35:00"
+    },
+    {
+      "id": 2,
+      "title": "Blog Difficulties and New Configuration",
+      "author": "Luke Sontrop",
+      "createdAt": "2025-02-13 21:25:00",
+      "categories": ["General", "DevOps"],
+      "updatedAt": "2025-02-13 21:25:00",
+      "publishedAt": "2025-02-13 21:25:00"
     },
     {
       "id": 3,
