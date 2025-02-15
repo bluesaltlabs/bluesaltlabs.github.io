@@ -24,13 +24,13 @@
     },
     {
       "id": 2,
-      "title": "Blog Difficulties and New Configuration",
-      "description": "Learn about the challenges I faced while setting up my blog and how I resolved them.",
+      "title": "Deploying A GitHub Pages Website",
+      "description": "In this post I will describe the steps taken to deploy a basic GitHub pages site.",
       "author": "Luke Sontrop",
-      "excerpt": "Discussing the process of deploying a GitHub pages website and the challenges I faced.",
+      "excerpt": "In this post I will describe the steps taken to deploy a basic GitHub pages site.",
       "createdAt": "2025-02-13 21:25:00",
       "categories": ["General", "DevOps"],
-      "updatedAt": "2025-02-15 02:00:00",
+      "updatedAt": "2025-02-15 05:00:00",
       "publishedAt": "2025-02-14 14:40:00"
     },
     {

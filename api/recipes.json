@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Example Recipe",
+      "ingredients": [
+        "Ingredient 1",
+        "Ingredient 2",
+        "Ingredient 3"
+      ],
+      "instructions": [
+        "Complete first step",
+        "Complete second step",
+        "Complete third step"
+      ],
+      "image": ""
+    }
+  ]
+}
