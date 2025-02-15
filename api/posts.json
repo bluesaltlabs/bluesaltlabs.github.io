@@ -1,15 +1,15 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "GitHub Pages Setup Preview",
-      "description": "First Blog Post - working on a series of posts explaining how to deploy a website.",
+      "id": 3,
+      "title": "'What is this blog even about?'",
+      "description": "Exploring the purpose and content of this site.",
       "author": "Luke Sontrop",
-      "excerpt": "I am working on a series of posts explaining GitHub pages and Cloudflare pages deployment. Stay tuned.",
-      "createdAt": "2025-02-11 18:00:00",
-      "categories": ["General", "DevOps"],
-      "updatedAt": "2025-02-14 14:40:00",
-      "publishedAt": "2025-02-11 18:35:00"
+      "excerpt": "Why was this site created? Why is the content added to this site so haphazard? Let's explore.",
+      "createdAt": "2025-02-15 01:00:00",
+      "categories": ["General"],
+      "updatedAt": "2025-02-15 04:00:00",
+      "publishedAt": "2025-02-15 04:00:00"
     },
     {
       "id": 2,
@@ -23,15 +23,15 @@
       "publishedAt": "2025-02-14 14:40:00"
     },
     {
-      "id": 3,
-      "title": "'What is this blog even about?'",
-      "description": "Exploring the purpose and content of this site.",
+      "id": 1,
+      "title": "GitHub Pages Setup Preview",
+      "description": "First Blog Post - working on a series of posts explaining how to deploy a website.",
       "author": "Luke Sontrop",
-      "excerpt": "Why was this site created? Why is the content added to this site so haphazard? Let's explore.",
-      "createdAt": "2025-02-15 01:00:00",
-      "categories": ["General"],
-      "updatedAt": "2025-02-15 01:00:00",
-      "publishedAt": "2025-02-15 01:00:00"
+      "excerpt": "I am working on a series of posts explaining GitHub pages and Cloudflare pages deployment. Stay tuned.",
+      "createdAt": "2025-02-11 18:00:00",
+      "categories": ["General", "DevOps"],
+      "updatedAt": "2025-02-14 14:40:00",
+      "publishedAt": "2025-02-11 18:35:00"
     }
   ]
 }
