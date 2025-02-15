@@ -1,6 +1,17 @@
 {
   "posts": [
     {
+      "id": 4,
+      "title": "Next Post",
+      "description": "This is the next blog post. Please finish post 2 before moving on to this one!.",
+      "author": "Luke Sontrop",
+      "excerpt": "This post has not been written (yet!)",
+      "createdAt": "2025-02-15 04:00:00",
+      "categories": ["General", "DevOps"],
+      "updatedAt": "2025-02-15 04:00:00",
+      "publishedAt": null
+    },
+    {
       "id": 3,
       "title": "'What is this blog even about?'",
       "description": "Exploring the purpose and content of this site.",
