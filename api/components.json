@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "id": 1,
+      "name": "test-component",
+      "description": "This is the first, test component",
+      "todo": [
+        "Implement test component functionality"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "checkbox-switch",
+      "description": "This is the checkbox switch component",
+      "todo": [
+        "Implement checkbox switch component functionality"
+      ]
+    }
+  ]
+}
