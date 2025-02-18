@@ -1,12 +1,25 @@
 {
   "posts": [
     {
+      "id": 5,
+      "title": "Next Post 2",
+      "description": "This is another blog post that I want to write and it will be about my vector keyboard.",
+      "author": "Luke Sontrop",
+      "excerpt": "This is another blog post that I want to write and it will be about my vector keyboard.",
+      "categories": ["General"],
+      "keywords": [],
+      "createdAt": "2025-02-15 15:45:00",
+      "updatedAt": "2025-02-15 15:45:00",
+      "publishedAt": null
+    },
+    {
       "id": 4,
       "title": "Next Post",
       "description": "This is the next blog post. Please finish post 2 before moving on to this one!.",
       "author": "Luke Sontrop",
       "excerpt": "This post has not been written (yet!)",
       "categories": ["General", "DevOps"],
+      "keywords": [],
       "createdAt": "2025-02-15 15:45:00",
       "updatedAt": "2025-02-15 15:45:00",
       "publishedAt": null
@@ -18,6 +31,7 @@
       "author": "Luke Sontrop",
       "excerpt": "In this post I will describe the steps taken to deploy a basic GitHub pages site.",
       "categories": ["General", "DevOps"],
+      "keywords": [],
       "createdAt": "2025-02-13 21:25:00",
       "updatedAt": "2025-02-15 15:45:00",
       "publishedAt": "2025-02-15 15:45:00"
@@ -29,6 +43,7 @@
       "author": "Luke Sontrop",
       "excerpt": "Why was this site created? Why is the content added to this site so haphazard? Let's explore.",
       "categories": ["General"],
+      "keywords": [],
       "createdAt": "2025-02-15 01:00:00",
       "updatedAt": "2025-02-15 04:00:00",
       "publishedAt": "2025-02-15 04:00:00"
@@ -40,6 +55,7 @@
       "author": "Luke Sontrop",
       "excerpt": "I am working on a series of posts explaining GitHub pages and Cloudflare pages deployment. Stay tuned.",
       "categories": ["General", "DevOps"],
+      "keywords": [],
       "createdAt": "2025-02-11 18:00:00",
       "updatedAt": "2025-02-14 14:40:00",
       "publishedAt": "2025-02-11 18:35:00"
