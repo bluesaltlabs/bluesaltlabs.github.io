@@ -2,14 +2,14 @@
   "posts": [
     {
       "id": 5,
-      "title": "Next Post 2",
-      "description": "This is another blog post that I want to write and it will be about my vector keyboard.",
+      "title": "How Not to Write a Professional Developer Blog",
+      "description": "Discusses how not to write professional-sounding content for your developer blog, and why I'm doing it anyway.",
       "author": "Luke Sontrop",
-      "excerpt": "This is another blog post that I want to write and it will be about my vector keyboard.",
+      "excerpt": "In this post I'll be discussing how not to write professional-sounding content for your developer blog, and why I'm doing it anyway.",
       "categories": ["General"],
       "keywords": [],
-      "createdAt": "2025-02-15 15:45:00",
-      "updatedAt": "2025-02-15 15:45:00",
+      "createdAt": "2025-02-19 21:30:00",
+      "updatedAt": "2025-02-19 21:30:00",
       "publishedAt": null
     },
     {
