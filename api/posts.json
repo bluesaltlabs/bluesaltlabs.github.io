@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "id": 6,
+      "title": "New Post Title",
+      "description": "",
+      "author": "Luke Sontrop",
+      "excerpt": "",
+      "categories": [],
+      "keywords": [],
+      "createdAt": "2025-02-20 09:00:00",
+      "updatedAt": "2025-02-20 09:00:00",
+      "publishedAt": ""
+    }
+    {
       "id": 5,
       "title": "How Not to Write a Professional Developer Blog",
       "description": "Discusses how not to write professional-sounding content for your developer blog, and why I'm doing it anyway.",
@@ -10,7 +22,7 @@
       "keywords": [],
       "createdAt": "2025-02-19 21:30:00",
       "updatedAt": "2025-02-19 21:30:00",
-      "publishedAt": null
+      "publishedAt": "2025-02-20 08:00:00"
     },
     {
       "id": 4,
