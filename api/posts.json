@@ -1,16 +1,28 @@
 {
   "posts": [
     {
-      "id": 6,
+      "id": 7,
       "title": "New Post Title",
-      "description": "",
+      "description": "Description of the new post.",
+      "author": "Luke Sontrop",
+      "excerpt": "Excerpt of the new post.",
+      "categories": ["General"],
+      "keywords": [],
+      "createdAt": "2025-02-19 09:00:00",
+      "updatedAt": "2025-02-19 09:00:00",
+      "publishedAt": "2025-02-24 09:00:00"
+    },
+    {
+      "id": 6,
+      "title": "Researching Free Database Storage Options",
+      "description": "Researching various options available today for free and affordable database storage solutions.",
       "author": "Luke Sontrop",
       "excerpt": "",
-      "categories": [],
+      "categories": ["General", "DevOps"],
       "keywords": [],
-      "createdAt": "2025-02-20 09:00:00",
-      "updatedAt": "2025-02-20 09:00:00",
-      "publishedAt": "2025-02-21 09:00:00"
+      "createdAt": "2025-02-19 09:00:00",
+      "updatedAt": "2025-02-19 09:00:00",
+      "publishedAt": "2025-02-22 09:00:00"
     },
     {
       "id": 5,
