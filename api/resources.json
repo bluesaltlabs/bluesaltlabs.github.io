@@ -6,133 +6,70 @@
         "title": "80,000 Hours Job board",
         "description": "",
         "url": "https://jobs.80000hours.org",
-        "tags": ["Job Board", "Company Job Board"]
+        "tags": ["Job Board"]
       },
       {
         "id": 2,
         "title": "We Work Remotely Job Board",
         "description": "",
         "url": "https://weworkremotely.com/remote-jobs/search",
-        "tags": ["Job Board", "Company Job Board"]
+        "tags": ["Job Board"]
       },
       {
         "id": 3,
         "title": "PostHog",
         "description": "",
         "url": "https://posthog.com/cool-tech-jobs",
-        "tags": ["Job Board", "Company Job Board"]
+        "tags": ["Job Board"]
       },
       {
         "id": 4,
         "title": "Greater Spokane Inc Job Board",
         "description": "",
         "url": "https://greaterspokane.mcjobboard.net/jobs",
-        "tags": ["Job Board", "Company Job Board"]
+        "tags": ["Job Board", "Spokane Job Board"]
       },
       {
         "id": 5,
-        "title": "PEPP Spokane",
-        "description": "",
-        "url": "https://peppspokane.org",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 6,
-        "title": "Well Found",
-        "description": "",
-        "url": "https://wellfound.com",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 7,
-        "title": "Spectroomz",
-        "description": "Helps Autistic Adults To Get Work From Home Jobs",
-        "url": "https://www.spectroomz.com",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 8,
-        "title": "My Green Lab",
-        "description": "",
-        "url": "https://www.mygreenlab.org/employment-opportunities.html",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 9,
-        "title": "Spokane Public Schools Job Board",
-        "description": "",
-        "url": "https://www.schooljobs.com/careers/spokaneschools",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 10,
-        "title": "Central Valley School District Job Board",
-        "description": "",
-        "url": "https://cvsdjobs.myschooldata.net/JobOpenings.aspx",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 11,
-        "title": "Notion Careers",
-        "description": "",
-        "url": "https://www.notion.com/careers",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 12,
-        "title": "Reddit Careers",
-        "description": "",
-        "url": "https://redditinc.com/careers",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 13,
         "title": "Downtown Spokane Employment",
         "description": "",
         "url": "https://downtownspokane.org/employment/",
         "tags": ["Job Board", "Company Job Board"]
       },
       {
-        "id": 14,
-        "title": "Numerica",
-        "description": "",
-        "url": "https://www.numericacu.com/careers",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 15,
+        "id": 6,
         "title": "TwoBarrels Jobs",
         "description": "",
         "url": "https://www.twobarrels.com/jobs",
         "tags": ["Job Board", "Company Job Board"]
       },
       {
-        "id": 16,
-        "title": "Well Found",
+        "id": 7,
+        "title": "Spokane Public Schools Job Board",
         "description": "",
-        "url": "https://wellfound.com",
+        "url": "https://www.schooljobs.com/careers/spokaneschools",
         "tags": ["Job Board", "Company Job Board"]
       },
       {
-        "id": 17,
-        "title": "Spectroomz",
-        "description": "Helps Autistic Adults To Get Work From Home Jobs",
-        "url": "https://www.spectroomz.com",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 18,
-        "title": "My Green Lab",
-        "description": "",
-        "url": "https://www.mygreenlab.org/employment-opportunities.html",
-        "tags": ["Job Board", "Company Job Board"]
-      },
-      {
-        "id": 19,
+        "id": 8,
         "title": "Central Valley School District Job Board",
         "description": "",
         "url": "https://cvsdjobs.myschooldata.net/JobOpenings.aspx",
         "tags": ["Job Board", "Company Job Board"]
+      },
+      {
+        "id": 9,
+        "title": "Central Valley School District Job Board",
+        "description": "",
+        "url": "https://cvsdjobs.myschooldata.net/JobOpenings.aspx",
+        "tags": ["Job Board", "Company Job Board"]
+      },
+      {
+        "id": 10,
+        "title": "Numerica",
+        "description": "",
+        "url": "https://www.numericacu.com/careers",
+        "tags": ["Job Board", "Company Job Board", "Spokane Job Board"]
       }
     ],
     "guides": [
@@ -141,6 +78,14 @@
         "url": "https://80000hours.org/career-guide/how-to-get-a-job",
         "title": "Resource: Guide for getting a job | 80,000 Hours",
         "description": ""
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "title": "PEPP Spokane",
+        "description": "Pre-Employment Preparation Program | A 4 week program (160hrs) that prepares you for an interview with Trade Union Apprenticeships.",
+        "url": "https://peppspokane.org"
       }
     ]
   }
