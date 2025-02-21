@@ -1,0 +1,9 @@
+{
+  "beats": [
+    {
+      "id": 1,
+      "name": "Beat 1",
+      "description": "Description for Beat 1"
+    }
+  ]
+}
