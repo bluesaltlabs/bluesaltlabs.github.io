@@ -7,127 +7,158 @@
       "description": "December 2025",
       "31": {
         "name": "31st",
-        "description": "December 31st, 2025"
+        "description": "December 31st, 2025",
+        "day": "Wednesday"
       },
       "30": {
         "name": "30th",
-        "description": "December 30th, 2025"
+        "description": "December 30th, 2025",
+        "day": "Tuesday"
       },
       "29": {
         "name": "29th",
-        "description": "December 29th, 2025"
+        "description": "December 29th, 2025",
+        "day": "Monday"
       },
       "28": {
         "name": "28th",
-        "description": "December 28th, 2025"
+        "description": "December 28th, 2025",
+        "day": "Sunday"
       },
       "27": {
         "name": "27th",
-        "description": "December 27th, 2025"
+        "description": "December 27th, 2025",
+        "day": "Saturday"
       },
       "26": {
         "name": "26th",
-        "description": "December 26th, 2025"
+        "description": "December 26th, 2025",
+        "day": "Friday"
       },
       "25": {
         "name": "25th",
-        "description": "December 25th, 2025"
+        "description": "December 25th, 2025",
+        "day": "Thursday"
       },
       "24": {
         "name": "24th",
-        "description": "December 24th, 2025"
+        "description": "December 24th, 2025",
+        "day": "Wednesday"
       },
       "23": {
         "name": "23rd",
-        "description": "December 23rd, 2025"
+        "description": "December 23rd, 2025",
+        "day": "Tuesday"
       },
       "22": {
         "name": "22nd",
-        "description": "December 22nd, 2025"
+        "description": "December 22nd, 2025",
+        "day": "Monday"
       },
       "21": {
         "name": "21st",
-        "description": "December 21st, 2025"
+        "description": "December 21st, 2025",
+        "day": "Sunday"
       },
       "20": {
         "name": "20th",
-        "description": "December 20th, 2025"
+        "description": "December 20th, 2025",
+        "day": "Saturday"
       },
       "19": {
         "name": "19th",
-        "description": "December 19th, 2025"
+        "description": "December 19th, 2025",
+        "day": "Friday"
       },
       "18": {
         "name": "18th",
-        "description": "December 18th, 2025"
+        "description": "December 18th, 2025",
+        "day": "Thursday"
       },
       "17": {
         "name": "17th",
-        "description": "December 17th, 2025"
+        "description": "December 17th, 2025",
+        "day": "Wednesday"
       },
       "16": {
         "name": "16th",
-        "description": "December 16th, 2025"
+        "description": "December 16th, 2025",
+        "day": "Tuesday"
       },
       "15": {
         "name": "15th",
-        "description": "December 15th, 2025"
+        "description": "December 15th, 2025",
+        "day": "Monday"
       },
       "14": {
         "name": "14th",
-        "description": "December 14th, 2025"
+        "description": "December 14th, 2025",
+        "day": "Sunday"
       },
       "13": {
         "name": "13th",
-        "description": "December 13th, 2025"
+        "description": "December 13th, 2025",
+        "day": "Saturday"
       },
       "12": {
         "name": "12th",
-        "description": "December 12th, 2025"
+        "description": "December 12th, 2025",
+        "day": "Friday"
       },
       "11": {
         "name": "11th",
-        "description": "December 11th, 2025"
+        "description": "December 11th, 2025",
+        "day": "Thursday"
       },
       "10": {
         "name": "10th",
-        "description": "December 10th, 2025"
+        "description": "December 10th, 2025",
+        "day": "Wednesday"
       },
       "9": {
         "name": "9th",
-        "description": "December 9th, 2025"
+        "description": "December 9th, 2025",
+        "day": "Tuesday"
       },
       "8": {
         "name": "8th",
-        "description": "December 8th, 2025"
+        "description": "December 8th, 2025",
+        "day": "Monday"
       },
       "7": {
         "name": "7th",
-        "description": "December 7th, 2025"
+        "description": "December 7th, 2025",
+        "day": "Sunday"
       },
       "6": {
         "name": "6th",
-        "description": "December 6th, 2025"
+        "description": "December 6th, 2025",
+        "day": "Saturday"
       },
       "5": {
         "name": "5th",
-        "description": "December 5th, 2025"
+        "description": "December 5th, 2025",
+        "day": "Friday"
       },
       "4": {
         "name": "4th",
-        "description": "December 4th, 2025"
+        "description": "December 4th, 2025",
+        "day": "Thursday"
       },
       "3": {
         "name": "3rd",
-        "description": "December 3rd, 2025"
+        "description": "December 3rd, 2025",
+        "day": "Wednesday"
       },
       "2": {
         "name": "2nd",
-        "description": "December 2nd, 2025"
+        "description": "December 2nd, 2025",
+        "day": "Tuesday"
       },
       "1": {
         "name": "1st",
-        "description": "December 1st, 2025"
+        "description": "December 1st, 2025",
+        "day": "Monday"
       }
     },
     "11": {
@@ -135,123 +166,153 @@
       "description": "November 2025",
       "30": {
         "name": "30th",
-        "description": "November 30th, 2025"
+        "description": "November 30th, 2025",
+        "day": "Sunday"
       },
       "29": {
         "name": "29th",
-        "description": "November 29th, 2025"
+        "description": "November 29th, 2025",
+        "day": "Saturday"
       },
       "28": {
         "name": "28th",
-        "description": "November 28th, 2025"
+        "description": "November 28th, 2025",
+        "day": "Friday"
       },
       "27": {
         "name": "27th",
-        "description": "November 27th, 2025"
+        "description": "November 27th, 2025",
+        "day": "Thursday"
       },
       "26": {
         "name": "26th",
-        "description": "November 26th, 2025"
+        "description": "November 26th, 2025",
+        "day": "Wednesday"
       },
       "25": {
         "name": "25th",
-        "description": "November 25th, 2025"
+        "description": "November 25th, 2025",
+        "day": "Tuesday"
       },
       "24": {
         "name": "24th",
-        "description": "November 24th, 2025"
+        "description": "November 24th, 2025",
+        "day": "Monday"
       },
       "23": {
         "name": "23rd",
-        "description": "November 23rd, 2025"
+        "description": "November 23rd, 2025",
+        "day": "Sunday"
       },
       "22": {
         "name": "22nd",
-        "description": "November 22nd, 2025"
+        "description": "November 22nd, 2025",
+        "day": "Saturday"
       },
       "21": {
         "name": "21st",
-        "description": "November 21st, 2025"
+        "description": "November 21st, 2025",
+        "day": "Friday"
       },
       "20": {
         "name": "20th",
-        "description": "November 20th, 2025"
+        "description": "November 20th, 2025",
+        "day": "Thursday"
       },
       "19": {
         "name": "19th",
-        "description": "November 19th, 2025"
+        "description": "November 19th, 2025",
+        "day": "Wednesday"
       },
       "18": {
         "name": "18th",
-        "description": "November 18th, 2025"
+        "description": "November 18th, 2025",
+        "day": "Tuesday"
       },
       "17": {
         "name": "17th",
-        "description": "November 17th, 2025"
+        "description": "November 17th, 2025",
+        "day": "Monday"
       },
       "16": {
         "name": "16th",
-        "description": "November 16th, 2025"
+        "description": "November 16th, 2025",
+        "day": "Sunday"
       },
       "15": {
         "name": "15th",
-        "description": "November 15th, 2025"
+        "description": "November 15th, 2025",
+        "day": "Saturday"
       },
       "14": {
         "name": "14th",
-        "description": "November 14th, 2025"
+        "description": "November 14th, 2025",
+        "day": "Friday"
       },
       "13": {
         "name": "13th",
-        "description": "November 13th, 2025"
+        "description": "November 13th, 2025",
+        "day": "Thursday"
       },
       "12": {
         "name": "12th",
-        "description": "November 12th, 2025"
+        "description": "November 12th, 2025",
+        "day": "Wednesday"
       },
       "11": {
         "name": "11th",
-        "description": "November 11th, 2025"
+        "description": "November 11th, 2025",
+        "day": "Tuesday"
       },
       "10": {
         "name": "10th",
-        "description": "November 10th, 2025"
+        "description": "November 10th, 2025",
+        "day": "Monday"
       },
       "9": {
         "name": "9th",
-        "description": "November 9th, 2025"
+        "description": "November 9th, 2025",
+        "day": "Sunday"
       },
       "8": {
         "name": "8th",
-        "description": "November 8th, 2025"
+        "description": "November 8th, 2025",
+        "day": "Saturday"
       },
       "7": {
         "name": "7th",
-        "description": "November 7th, 2025"
+        "description": "November 7th, 2025",
+        "day": "Friday"
       },
       "6": {
         "name": "6th",
-        "description": "November 6th, 2025"
+        "description": "November 6th, 2025",
+        "day": "Thursday"
       },
       "5": {
         "name": "5th",
-        "description": "November 5th, 2025"
+        "description": "November 5th, 2025",
+        "day": "Wednesday"
       },
       "4": {
         "name": "4th",
-        "description": "November 4th, 2025"
+        "description": "November 4th, 2025",
+        "day": "Tuesday"
       },
       "3": {
         "name": "3rd",
-        "description": "November 3rd, 2025"
+        "description": "November 3rd, 2025",
+        "day": "Monday"
       },
       "2": {
         "name": "2nd",
-        "description": "November 2nd, 2025"
+        "description": "November 2nd, 2025",
+        "day": "Sunday"
       },
       "1": {
         "name": "1st",
-        "description": "November 1st, 2025"
+        "description": "November 1st, 2025",
+        "day": "Saturday"
       }
     },
     "10": {
@@ -259,127 +320,158 @@
       "description": "October 2025",
       "31": {
         "name": "31st",
-        "description": "October 31st, 2025"
+        "description": "October 31st, 2025",
+        "day": "Friday"
       },
       "30": {
         "name": "30th",
-        "description": "October 30th, 2025"
+        "description": "October 30th, 2025",
+        "day": "Thursday"
       },
       "29": {
         "name": "29th",
-        "description": "October 29th, 2025"
+        "description": "October 29th, 2025",
+        "day": "Wednesday"
       },
       "28": {
         "name": "28th",
-        "description": "October 28th, 2025"
+        "description": "October 28th, 2025",
+        "day": "Tuesday"
       },
       "27": {
         "name": "27th",
-        "description": "October 27th, 2025"
+        "description": "October 27th, 2025",
+        "day": "Monday"
       },
       "26": {
         "name": "26th",
-        "description": "October 26th, 2025"
+        "description": "October 26th, 2025",
+        "day": "Sunday"
       },
       "25": {
         "name": "25th",
-        "description": "October 25th, 2025"
+        "description": "October 25th, 2025",
+        "day": "Saturday"
       },
       "24": {
         "name": "24th",
-        "description": "October 24th, 2025"
+        "description": "October 24th, 2025",
+        "day": "Friday"
       },
       "23": {
         "name": "23rd",
-        "description": "October 23rd, 2025"
+        "description": "October 23rd, 2025",
+        "day": "Thursday"
       },
       "22": {
         "name": "22nd",
-        "description": "October 22nd, 2025"
+        "description": "October 22nd, 2025",
+        "day": "Wednesday"
       },
       "21": {
         "name": "21st",
-        "description": "October 21st, 2025"
+        "description": "October 21st, 2025",
+        "day": "Tuesday"
       },
       "20": {
         "name": "20th",
-        "description": "October 20th, 2025"
+        "description": "October 20th, 2025",
+        "day": "Monday"
       },
       "19": {
         "name": "19th",
-        "description": "October 19th, 2025"
+        "description": "October 19th, 2025",
+        "day": "Sunday"
       },
       "18": {
         "name": "18th",
-        "description": "October 18th, 2025"
+        "description": "October 18th, 2025",
+        "day": "Saturday"
       },
       "17": {
         "name": "17th",
-        "description": "October 17th, 2025"
+        "description": "October 17th, 2025",
+        "day": "Friday"
       },
       "16": {
         "name": "16th",
-        "description": "October 16th, 2025"
+        "description": "October 16th, 2025",
+        "day": "Thursday"
       },
       "15": {
         "name": "15th",
-        "description": "October 15th, 2025"
+        "description": "October 15th, 2025",
+        "day": "Wednesday"
       },
       "14": {
         "name": "14th",
-        "description": "October 14th, 2025"
+        "description": "October 14th, 2025",
+        "day": "Tuesday"
       },
       "13": {
         "name": "13th",
-        "description": "October 13th, 2025"
+        "description": "October 13th, 2025",
+        "day": "Monday"
       },
       "12": {
         "name": "12th",
-        "description": "October 12th, 2025"
+        "description": "October 12th, 2025",
+        "day": "Sunday"
       },
       "11": {
         "name": "11th",
-        "description": "October 11th, 2025"
+        "description": "October 11th, 2025",
+        "day": "Saturday"
       },
       "10": {
         "name": "10th",
-        "description": "October 10th, 2025"
+        "description": "October 10th, 2025",
+        "day": "Friday"
       },
       "9": {
         "name": "9th",
-        "description": "October 9th, 2025"
+        "description": "October 9th, 2025",
+        "day": "Thursday"
       },
       "8": {
         "name": "8th",
-        "description": "October 8th, 2025"
+        "description": "October 8th, 2025",
+        "day": "Wednesday"
       },
       "7": {
         "name": "7th",
-        "description": "October 7th, 2025"
+        "description": "October 7th, 2025",
+        "day": "Tuesday"
       },
       "6": {
         "name": "6th",
-        "description": "October 6th, 2025"
+        "description": "October 6th, 2025",
+        "day": "Monday"
       },
       "5": {
         "name": "5th",
-        "description": "October 5th, 2025"
+        "description": "October 5th, 2025",
+        "day": "Sunday"
       },
       "4": {
         "name": "4th",
-        "description": "October 4th, 2025"
+        "description": "October 4th, 2025",
+        "day": "Saturday"
       },
       "3": {
         "name": "3rd",
-        "description": "October 3rd, 2025"
+        "description": "October 3rd, 2025",
+        "day": "Friday"
       },
       "2": {
         "name": "2nd",
-        "description": "October 2nd, 2025"
+        "description": "October 2nd, 2025",
+        "day": "Thursday"
       },
       "1": {
         "name": "1st",
-        "description": "October 1st, 2025"
+        "description": "October 1st, 2025",
+        "day": "Wednesday"
       }
     },
     "09": {
@@ -387,123 +479,153 @@
       "description": "September 2025",
       "30": {
         "name": "30th",
-        "description": "September 30th, 2025"
+        "description": "September 30th, 2025",
+        "day": "Tuesday"
       },
       "29": {
         "name": "29th",
-        "description": "September 29th, 2025"
+        "description": "September 29th, 2025",
+        "day": "Monday"
       },
       "28": {
         "name": "28th",
-        "description": "September 28th, 2025"
+        "description": "September 28th, 2025",
+        "day": "Sunday"
       },
       "27": {
         "name": "27th",
-        "description": "September 27th, 2025"
+        "description": "September 27th, 2025",
+        "day": "Saturday"
       },
       "26": {
         "name": "26th",
-        "description": "September 26th, 2025"
+        "description": "September 26th, 2025",
+        "day": "Friday"
       },
       "25": {
         "name": "25th",
-        "description": "September 25th, 2025"
+        "description": "September 25th, 2025",
+        "day": "Thursday"
       },
       "24": {
         "name": "24th",
-        "description": "September 24th, 2025"
+        "description": "September 24th, 2025",
+        "day": "Wednesday"
       },
       "23": {
         "name": "23rd",
-        "description": "September 23rd, 2025"
+        "description": "September 23rd, 2025",
+        "day": "Tuesday"
       },
       "22": {
         "name": "22nd",
-        "description": "September 22nd, 2025"
+        "description": "September 22nd, 2025",
+        "day": "Monday"
       },
       "21": {
         "name": "21st",
-        "description": "September 21st, 2025"
+        "description": "September 21st, 2025",
+        "day": "Sunday"
       },
       "20": {
         "name": "20th",
-        "description": "September 20th, 2025"
+        "description": "September 20th, 2025",
+        "day": "Saturday"
       },
       "19": {
         "name": "19th",
-        "description": "September 19th, 2025"
+        "description": "September 19th, 2025",
+        "day": "Friday"
       },
       "18": {
         "name": "18th",
-        "description": "September 18th, 2025"
+        "description": "September 18th, 2025",
+        "day": "Thursday"
       },
       "17": {
         "name": "17th",
-        "description": "September 17th, 2025"
+        "description": "September 17th, 2025",
+        "day": "Wednesday"
       },
       "16": {
         "name": "16th",
-        "description": "September 16th, 2025"
+        "description": "September 16th, 2025",
+        "day": "Tuesday"
       },
       "15": {
         "name": "15th",
-        "description": "September 15th, 2025"
+        "description": "September 15th, 2025",
+        "day": "Monday"
       },
       "14": {
         "name": "14th",
-        "description": "September 14th, 2025"
+        "description": "September 14th, 2025",
+        "day": "Sunday"
       },
       "13": {
         "name": "13th",
-        "description": "September 13th, 2025"
+        "description": "September 13th, 2025",
+        "day": "Saturday"
       },
       "12": {
         "name": "12th",
-        "description": "September 12th, 2025"
+        "description": "September 12th, 2025",
+        "day": "Friday"
       },
       "11": {
         "name": "11th",
-        "description": "September 11th, 2025"
+        "description": "September 11th, 2025",
+        "day": "Thursday"
       },
       "10": {
         "name": "10th",
-        "description": "September 10th, 2025"
+        "description": "September 10th, 2025",
+        "day": "Wednesday"
       },
       "9": {
         "name": "9th",
-        "description": "September 9th, 2025"
+        "description": "September 9th, 2025",
+        "day": "Tuesday"
       },
       "8": {
         "name": "8th",
-        "description": "September 8th, 2025"
+        "description": "September 8th, 2025",
+        "day": "Monday"
       },
       "7": {
         "name": "7th",
-        "description": "September 7th, 2025"
+        "description": "September 7th, 2025",
+        "day": "Sunday"
       },
       "6": {
         "name": "6th",
-        "description": "September 6th, 2025"
+        "description": "September 6th, 2025",
+        "day": "Saturday"
       },
       "5": {
         "name": "5th",
-        "description": "September 5th, 2025"
+        "description": "September 5th, 2025",
+        "day": "Friday"
       },
       "4": {
         "name": "4th",
-        "description": "September 4th, 2025"
+        "description": "September 4th, 2025",
+        "day": "Thursday"
       },
       "3": {
         "name": "3rd",
-        "description": "September 3rd, 2025"
+        "description": "September 3rd, 2025",
+        "day": "Wednesday"
       },
       "2": {
         "name": "2nd",
-        "description": "September 2nd, 2025"
+        "description": "September 2nd, 2025",
+        "day": "Tuesday"
       },
       "1": {
         "name": "1st",
-        "description": "September 1st, 2025"
+        "description": "September 1st, 2025",
+        "day": "Monday"
       }
     },
     "08": {
@@ -511,127 +633,158 @@
       "description": "August 2025",
       "31": {
         "name": "31st",
-        "description": "August 31st, 2025"
+        "description": "August 31st, 2025",
+        "day": "Sunday"
       },
       "30": {
         "name": "30th",
-        "description": "August 30th, 2025"
+        "description": "August 30th, 2025",
+        "day": "Saturday"
       },
       "29": {
         "name": "29th",
-        "description": "August 29th, 2025"
+        "description": "August 29th, 2025",
+        "day": "Friday"
       },
       "28": {
         "name": "28th",
-        "description": "August 28th, 2025"
+        "description": "August 28th, 2025",
+        "day": "Thursday"
       },
       "27": {
         "name": "27th",
-        "description": "August 27th, 2025"
+        "description": "August 27th, 2025",
+        "day": "Wednesday"
       },
       "26": {
         "name": "26th",
-        "description": "August 26th, 2025"
+        "description": "August 26th, 2025",
+        "day": "Tuesday"
       },
       "25": {
         "name": "25th",
-        "description": "August 25th, 2025"
+        "description": "August 25th, 2025",
+        "day": "Monday"
       },
       "24": {
         "name": "24th",
-        "description": "August 24th, 2025"
+        "description": "August 24th, 2025",
+        "day": "Sunday"
       },
       "23": {
         "name": "23rd",
-        "description": "August 23rd, 2025"
+        "description": "August 23rd, 2025",
+        "day": "Saturday"
       },
       "22": {
         "name": "22nd",
-        "description": "August 22nd, 2025"
+        "description": "August 22nd, 2025",
+        "day": "Friday"
       },
       "21": {
         "name": "21st",
-        "description": "August 21st, 2025"
+        "description": "August 21st, 2025",
+        "day": "Thursday"
       },
       "20": {
         "name": "20th",
-        "description": "August 20th, 2025"
+        "description": "August 20th, 2025",
+        "day": "Wednesday"
       },
       "19": {
         "name": "19th",
-        "description": "August 19th, 2025"
+        "description": "August 19th, 2025",
+        "day": "Tuesday"
       },
       "18": {
         "name": "18th",
-        "description": "August 18th, 2025"
+        "description": "August 18th, 2025",
+        "day": "Monday"
       },
       "17": {
         "name": "17th",
-        "description": "August 17th, 2025"
+        "description": "August 17th, 2025",
+        "day": "Sunday"
       },
       "16": {
         "name": "16th",
-        "description": "August 16th, 2025"
+        "description": "August 16th, 2025",
+        "day": "Saturday"
       },
       "15": {
         "name": "15th",
-        "description": "August 15th, 2025"
+        "description": "August 15th, 2025",
+        "day": "Friday"
       },
       "14": {
         "name": "14th",
-        "description": "August 14th, 2025"
+        "description": "August 14th, 2025",
+        "day": "Thursday"
       },
       "13": {
         "name": "13th",
-        "description": "August 13th, 2025"
+        "description": "August 13th, 2025",
+        "day": "Wednesday"
       },
       "12": {
         "name": "12th",
-        "description": "August 12th, 2025"
+        "description": "August 12th, 2025",
+        "day": "Tuesday"
       },
       "11": {
         "name": "11th",
-        "description": "August 11th, 2025"
+        "description": "August 11th, 2025",
+        "day": "Monday"
       },
       "10": {
         "name": "10th",
-        "description": "August 10th, 2025"
+        "description": "August 10th, 2025",
+        "day": "Sunday"
       },
       "9": {
         "name": "9th",
-        "description": "August 9th, 2025"
+        "description": "August 9th, 2025",
+        "day": "Saturday"
       },
       "8": {
         "name": "8th",
-        "description": "August 8th, 2025"
+        "description": "August 8th, 2025",
+        "day": "Friday"
       },
       "7": {
         "name": "7th",
-        "description": "August 7th, 2025"
+        "description": "August 7th, 2025",
+        "day": "Thursday"
       },
       "6": {
         "name": "6th",
-        "description": "August 6th, 2025"
+        "description": "August 6th, 2025",
+        "day": "Wednesday"
       },
       "5": {
         "name": "5th",
-        "description": "August 5th, 2025"
+        "description": "August 5th, 2025",
+        "day": "Tuesday"
       },
       "4": {
         "name": "4th",
-        "description": "August 4th, 2025"
+        "description": "August 4th, 2025",
+        "day": "Monday"
       },
       "3": {
         "name": "3rd",
-        "description": "August 3rd, 2025"
+        "description": "August 3rd, 2025",
+        "day": "Sunday"
       },
       "2": {
         "name": "2nd",
-        "description": "August 2nd, 2025"
+        "description": "August 2nd, 2025",
+        "day": "Saturday"
       },
       "1": {
         "name": "1st",
-        "description": "August 1st, 2025"
+        "description": "August 1st, 2025",
+        "day": "Friday"
       }
     },
     "07": {
@@ -639,127 +792,158 @@
       "description": "July 2025",
       "31": {
         "name": "31st",
-        "description": "July 31st, 2025"
+        "description": "July 31st, 2025",
+        "day": "Thursday"
       },
       "30": {
         "name": "30th",
-        "description": "July 30th, 2025"
+        "description": "July 30th, 2025",
+        "day": "Wednesday"
       },
       "29": {
         "name": "29th",
-        "description": "July 29th, 2025"
+        "description": "July 29th, 2025",
+        "day": "Tuesday"
       },
       "28": {
         "name": "28th",
-        "description": "July 28th, 2025"
+        "description": "July 28th, 2025",
+        "day": "Monday"
       },
       "27": {
         "name": "27th",
-        "description": "July 27th, 2025"
+        "description": "July 27th, 2025",
+        "day": "Sunday"
       },
       "26": {
         "name": "26th",
-        "description": "July 26th, 2025"
+        "description": "July 26th, 2025",
+        "day": "Saturday"
       },
       "25": {
         "name": "25th",
-        "description": "July 25th, 2025"
+        "description": "July 25th, 2025",
+        "day": "Friday"
       },
       "24": {
         "name": "24th",
-        "description": "July 24th, 2025"
+        "description": "July 24th, 2025",
+        "day": "Thursday"
       },
       "23": {
         "name": "23rd",
-        "description": "July 23rd, 2025"
+        "description": "July 23rd, 2025",
+        "day": "Wednesday"
       },
       "22": {
         "name": "22nd",
-        "description": "July 22nd, 2025"
+        "description": "July 22nd, 2025",
+        "day": "Tuesday"
       },
       "21": {
         "name": "21st",
-        "description": "July 21st, 2025"
+        "description": "July 21st, 2025",
+        "day": "Monday"
       },
       "20": {
         "name": "20th",
-        "description": "July 20th, 2025"
+        "description": "July 20th, 2025",
+        "day": "Sunday"
       },
       "19": {
         "name": "19th",
-        "description": "July 19th, 2025"
+        "description": "July 19th, 2025",
+        "day": "Saturday"
       },
       "18": {
         "name": "18th",
-        "description": "July 18th, 2025"
+        "description": "July 18th, 2025",
+        "day": "Friday"
       },
       "17": {
         "name": "17th",
-        "description": "July 17th, 2025"
+        "description": "July 17th, 2025",
+        "day": "Thursday"
       },
       "16": {
         "name": "16th",
-        "description": "July 16th, 2025"
+        "description": "July 16th, 2025",
+        "day": "Wednesday"
       },
       "15": {
         "name": "15th",
-        "description": "July 15th, 2025"
+        "description": "July 15th, 2025",
+        "day": "Tuesday"
       },
       "14": {
         "name": "14th",
-        "description": "July 14th, 2025"
+        "description": "July 14th, 2025",
+        "day": "Monday"
       },
       "13": {
         "name": "13th",
-        "description": "July 13th, 2025"
+        "description": "July 13th, 2025",
+        "day": "Sunday"
       },
       "12": {
         "name": "12th",
-        "description": "July 12th, 2025"
+        "description": "July 12th, 2025",
+        "day": "Saturday"
       },
       "11": {
         "name": "11th",
-        "description": "July 11th, 2025"
+        "description": "July 11th, 2025",
+        "day": "Friday"
       },
       "10": {
         "name": "10th",
-        "description": "July 10th, 2025"
+        "description": "July 10th, 2025",
+        "day": "Thursday"
       },
       "9": {
         "name": "9th",
-        "description": "July 9th, 2025"
+        "description": "July 9th, 2025",
+        "day": "Wednesday"
       },
       "8": {
         "name": "8th",
-        "description": "July 8th, 2025"
+        "description": "July 8th, 2025",
+        "day": "Tuesday"
       },
       "7": {
         "name": "7th",
-        "description": "July 7th, 2025"
+        "description": "July 7th, 2025",
+        "day": "Monday"
       },
       "6": {
         "name": "6th",
-        "description": "July 6th, 2025"
+        "description": "July 6th, 2025",
+        "day": "Sunday"
       },
       "5": {
         "name": "5th",
-        "description": "July 5th, 2025"
+        "description": "July 5th, 2025",
+        "day": "Saturday"
       },
       "4": {
         "name": "4th",
-        "description": "July 4th, 2025"
+        "description": "July 4th, 2025",
+        "day": "Friday"
       },
       "3": {
         "name": "3rd",
-        "description": "July 3rd, 2025"
+        "description": "July 3rd, 2025",
+        "day": "Thursday"
       },
       "2": {
         "name": "2nd",
-        "description": "July 2nd, 2025"
+        "description": "July 2nd, 2025",
+        "day": "Wednesday"
       },
       "1": {
         "name": "1st",
-        "description": "July 1st, 2025"
+        "description": "July 1st, 2025",
+        "day": "Tuesday"
       }
     },
     "06": {
@@ -767,123 +951,153 @@
       "description": "June 2025",
       "30": {
         "name": "30th",
-        "description": "June 30th, 2025"
+        "description": "June 30th, 2025",
+        "day": "Monday"
       },
       "29": {
         "name": "29th",
-        "description": "June 29th, 2025"
+        "description": "June 29th, 2025",
+        "day": "Sunday"
       },
       "28": {
         "name": "28th",
-        "description": "June 28th, 2025"
+        "description": "June 28th, 2025",
+        "day": "Saturday"
       },
       "27": {
         "name": "27th",
-        "description": "June 27th, 2025"
+        "description": "June 27th, 2025",
+        "day": "Friday"
       },
       "26": {
         "name": "26th",
-        "description": "June 26th, 2025"
+        "description": "June 26th, 2025",
+        "day": "Thursday"
       },
       "25": {
         "name": "25th",
-        "description": "June 25th, 2025"
+        "description": "June 25th, 2025",
+        "day": "Wednesday"
       },
       "24": {
         "name": "24th",
-        "description": "June 24th, 2025"
+        "description": "June 24th, 2025",
+        "day": "Tuesday"
       },
       "23": {
         "name": "23rd",
-        "description": "June 23rd, 2025"
+        "description": "June 23rd, 2025",
+        "day": "Monday"
       },
       "22": {
         "name": "22nd",
-        "description": "June 22nd, 2025"
+        "description": "June 22nd, 2025",
+        "day": "Sunday"
       },
       "21": {
         "name": "21st",
-        "description": "June 21st, 2025"
+        "description": "June 21st, 2025",
+        "day": "Saturday"
       },
       "20": {
         "name": "20th",
-        "description": "June 20th, 2025"
+        "description": "June 20th, 2025",
+        "day": "Friday"
       },
       "19": {
         "name": "19th",
-        "description": "June 19th, 2025"
+        "description": "June 19th, 2025",
+        "day": "Thursday"
       },
       "18": {
         "name": "18th",
-        "description": "June 18th, 2025"
+        "description": "June 18th, 2025",
+        "day": "Wednesday"
       },
       "17": {
         "name": "17th",
-        "description": "June 17th, 2025"
+        "description": "June 17th, 2025",
+        "day": "Tuesday"
       },
       "16": {
         "name": "16th",
-        "description": "June 16th, 2025"
+        "description": "June 16th, 2025",
+        "day": "Monday"
       },
       "15": {
         "name": "15th",
-        "description": "June 15th, 2025"
+        "description": "June 15th, 2025",
+        "day": "Sunday"
       },
       "14": {
         "name": "14th",
-        "description": "June 14th, 2025"
+        "description": "June 14th, 2025",
+        "day": "Saturday"
       },
       "13": {
         "name": "13th",
-        "description": "June 13th, 2025"
+        "description": "June 13th, 2025",
+        "day": "Friday"
       },
       "12": {
         "name": "12th",
-        "description": "June 12th, 2025"
+        "description": "June 12th, 2025",
+        "day": "Thursday"
       },
       "11": {
         "name": "11th",
-        "description": "June 11th, 2025"
+        "description": "June 11th, 2025",
+        "day": "Wednesday"
       },
       "10": {
         "name": "10th",
-        "description": "June 10th, 2025"
+        "description": "June 10th, 2025",
+        "day": "Tuesday"
       },
       "9": {
         "name": "9th",
-        "description": "June 9th, 2025"
+        "description": "June 9th, 2025",
+        "day": "Monday"
       },
       "8": {
         "name": "8th",
-        "description": "June 8th, 2025"
+        "description": "June 8th, 2025",
+        "day": "Sunday"
       },
       "7": {
         "name": "7th",
-        "description": "June 7th, 2025"
+        "description": "June 7th, 2025",
+        "day": "Saturday"
       },
       "6": {
         "name": "6th",
-        "description": "June 6th, 2025"
+        "description": "June 6th, 2025",
+        "day": "Friday"
       },
       "5": {
         "name": "5th",
-        "description": "June 5th, 2025"
+        "description": "June 5th, 2025",
+        "day": "Thursday"
       },
       "4": {
         "name": "4th",
-        "description": "June 4th, 2025"
+        "description": "June 4th, 2025",
+        "day": "Wednesday"
       },
       "3": {
         "name": "3rd",
-        "description": "June 3rd, 2025"
+        "description": "June 3rd, 2025",
+        "day": "Tuesday"
       },
       "2": {
         "name": "2nd",
-        "description": "June 2nd, 2025"
+        "description": "June 2nd, 2025",
+        "day": "Monday"
       },
       "1": {
         "name": "1st",
-        "description": "June 1st, 2025"
+        "description": "June 1st, 2025",
+        "day": "Sunday"
       }
     },
     "05": {
@@ -891,127 +1105,158 @@
       "description": "May 2025",
       "31": {
         "name": "31st",
-        "description": "May 31st, 2025"
+        "description": "May 31st, 2025",
+        "day": "Saturday"
       },
       "30": {
         "name": "30th",
-        "description": "May 30th, 2025"
+        "description": "May 30th, 2025",
+        "day": "Friday"
       },
       "29": {
         "name": "29th",
-        "description": "May 29th, 2025"
+        "description": "May 29th, 2025",
+        "day": "Thursday"
       },
       "28": {
         "name": "28th",
-        "description": "May 28th, 2025"
+        "description": "May 28th, 2025",
+        "day": "Wednesday"
       },
       "27": {
         "name": "27th",
-        "description": "May 27th, 2025"
+        "description": "May 27th, 2025",
+        "day": "Tuesday"
       },
       "26": {
         "name": "26th",
-        "description": "May 26th, 2025"
+        "description": "May 26th, 2025",
+        "day": "Monday"
       },
       "25": {
         "name": "25th",
-        "description": "May 25th, 2025"
+        "description": "May 25th, 2025",
+        "day": "Sunday"
       },
       "24": {
         "name": "24th",
-        "description": "May 24th, 2025"
+        "description": "May 24th, 2025",
+        "day": "Saturday"
       },
       "23": {
         "name": "23rd",
-        "description": "May 23rd, 2025"
+        "description": "May 23rd, 2025",
+        "day": "Friday"
       },
       "22": {
         "name": "22nd",
-        "description": "May 22nd, 2025"
+        "description": "May 22nd, 2025",
+        "day": "Thursday"
       },
       "21": {
         "name": "21st",
-        "description": "May 21st, 2025"
+        "description": "May 21st, 2025",
+        "day": "Wednesday"
       },
       "20": {
         "name": "20th",
-        "description": "May 20th, 2025"
+        "description": "May 20th, 2025",
+        "day": "Tuesday"
       },
       "19": {
         "name": "19th",
-        "description": "May 19th, 2025"
+        "description": "May 19th, 2025",
+        "day": "Monday"
       },
       "18": {
         "name": "18th",
-        "description": "May 18th, 2025"
+        "description": "May 18th, 2025",
+        "day": "Sunday"
       },
       "17": {
         "name": "17th",
-        "description": "May 17th, 2025"
+        "description": "May 17th, 2025",
+        "day": "Saturday"
       },
       "16": {
         "name": "16th",
-        "description": "May 16th, 2025"
+        "description": "May 16th, 2025",
+        "day": "Friday"
       },
       "15": {
         "name": "15th",
-        "description": "May 15th, 2025"
+        "description": "May 15th, 2025",
+        "day": "Thursday"
       },
       "14": {
         "name": "14th",
-        "description": "May 14th, 2025"
+        "description": "May 14th, 2025",
+        "day": "Wednesday"
       },
       "13": {
         "name": "13th",
-        "description": "May 13th, 2025"
+        "description": "May 13th, 2025",
+        "day": "Tuesday"
       },
       "12": {
         "name": "12th",
-        "description": "May 12th, 2025"
+        "description": "May 12th, 2025",
+        "day": "Monday"
       },
       "11": {
         "name": "11th",
-        "description": "May 11th, 2025"
+        "description": "May 11th, 2025",
+        "day": "Sunday"
       },
       "10": {
         "name": "10th",
-        "description": "May 10th, 2025"
+        "description": "May 10th, 2025",
+        "day": "Saturday"
       },
       "9": {
         "name": "9th",
-        "description": "May 9th, 2025"
+        "description": "May 9th, 2025",
+        "day": "Friday"
       },
       "8": {
         "name": "8th",
-        "description": "May 8th, 2025"
+        "description": "May 8th, 2025",
+        "day": "Thursday"
       },
       "7": {
         "name": "7th",
-        "description": "May 7th, 2025"
+        "description": "May 7th, 2025",
+        "day": "Wednesday"
       },
       "6": {
         "name": "6th",
-        "description": "May 6th, 2025"
+        "description": "May 6th, 2025",
+        "day": "Tuesday"
       },
       "5": {
         "name": "5th",
-        "description": "May 5th, 2025"
+        "description": "May 5th, 2025",
+        "day": "Monday"
       },
       "4": {
         "name": "4th",
-        "description": "May 4th, 2025"
+        "description": "May 4th, 2025",
+        "day": "Sunday"
       },
       "3": {
         "name": "3rd",
-        "description": "May 3rd, 2025"
+        "description": "May 3rd, 2025",
+        "day": "Saturday"
       },
       "2": {
         "name": "2nd",
-        "description": "May 2nd, 2025"
+        "description": "May 2nd, 2025",
+        "day": "Friday"
       },
       "1": {
         "name": "1st",
-        "description": "May 1st, 2025"
+        "description": "May 1st, 2025",
+        "day": "Thursday"
       }
     },
     "04": {
@@ -1019,123 +1264,153 @@
       "description": "April 2025",
       "30": {
         "name": "30th",
-        "description": "April 30th, 2025"
+        "description": "April 30th, 2025",
+        "day": "Wednesday"
       },
       "29": {
         "name": "29th",
-        "description": "April 29th, 2025"
+        "description": "April 29th, 2025",
+        "day": "Tuesday"
       },
       "28": {
         "name": "28th",
-        "description": "April 28th, 2025"
+        "description": "April 28th, 2025",
+        "day": "Monday"
       },
       "27": {
         "name": "27th",
-        "description": "April 27th, 2025"
+        "description": "April 27th, 2025",
+        "day": "Sunday"
       },
       "26": {
         "name": "26th",
-        "description": "April 26th, 2025"
+        "description": "April 26th, 2025",
+        "day": "Saturday"
       },
       "25": {
         "name": "25th",
-        "description": "April 25th, 2025"
+        "description": "April 25th, 2025",
+        "day": "Friday"
       },
       "24": {
         "name": "24th",
-        "description": "April 24th, 2025"
+        "description": "April 24th, 2025",
+        "day": "Thursday"
       },
       "23": {
         "name": "23rd",
-        "description": "April 23rd, 2025"
+        "description": "April 23rd, 2025",
+        "day": "Wednesday"
       },
       "22": {
         "name": "22nd",
-        "description": "April 22nd, 2025"
+        "description": "April 22nd, 2025",
+        "day": "Tuesday"
       },
       "21": {
         "name": "21st",
-        "description": "April 21st, 2025"
+        "description": "April 21st, 2025",
+        "day": "Monday"
       },
       "20": {
         "name": "20th",
-        "description": "April 20th, 2025"
+        "description": "April 20th, 2025",
+        "day": "Sunday"
       },
       "19": {
         "name": "19th",
-        "description": "April 19th, 2025"
+        "description": "April 19th, 2025",
+        "day": "Saturday"
       },
       "18": {
         "name": "18th",
-        "description": "April 18th, 2025"
+        "description": "April 18th, 2025",
+        "day": "Friday"
       },
       "17": {
         "name": "17th",
-        "description": "April 17th, 2025"
+        "description": "April 17th, 2025",
+        "day": "Thursday"
       },
       "16": {
         "name": "16th",
-        "description": "April 16th, 2025"
+        "description": "April 16th, 2025",
+        "day": "Wednesday"
       },
       "15": {
         "name": "15th",
-        "description": "April 15th, 2025"
+        "description": "April 15th, 2025",
+        "day": "Tuesday"
       },
       "14": {
         "name": "14th",
-        "description": "April 14th, 2025"
+        "description": "April 14th, 2025",
+        "day": "Monday"
       },
       "13": {
         "name": "13th",
-        "description": "April 13th, 2025"
+        "description": "April 13th, 2025",
+        "day": "Sunday"
       },
       "12": {
         "name": "12th",
-        "description": "April 12th, 2025"
+        "description": "April 12th, 2025",
+        "day": "Saturday"
       },
       "11": {
         "name": "11th",
-        "description": "April 11th, 2025"
+        "description": "April 11th, 2025",
+        "day": "Friday"
       },
       "10": {
         "name": "10th",
-        "description": "April 10th, 2025"
+        "description": "April 10th, 2025",
+        "day": "Thursday"
       },
       "9": {
         "name": "9th",
-        "description": "April 9th, 2025"
+        "description": "April 9th, 2025",
+        "day": "Wednesday"
       },
       "8": {
         "name": "8th",
-        "description": "April 8th, 2025"
+        "description": "April 8th, 2025",
+        "day": "Tuesday"
       },
       "7": {
         "name": "7th",
-        "description": "April 7th, 2025"
+        "description": "April 7th, 2025",
+        "day": "Monday"
       },
       "6": {
         "name": "6th",
-        "description": "April 6th, 2025"
+        "description": "April 6th, 2025",
+        "day": "Sunday"
       },
       "5": {
         "name": "5th",
-        "description": "April 5th, 2025"
+        "description": "April 5th, 2025",
+        "day": "Saturday"
       },
       "4": {
         "name": "4th",
-        "description": "April 4th, 2025"
+        "description": "April 4th, 2025",
+        "day": "Friday"
       },
       "3": {
         "name": "3rd",
-        "description": "April 3rd, 2025"
+        "description": "April 3rd, 2025",
+        "day": "Thursday"
       },
       "2": {
         "name": "2nd",
-        "description": "April 2nd, 2025"
+        "description": "April 2nd, 2025",
+        "day": "Wednesday"
       },
       "1": {
         "name": "1st",
-        "description": "April 1st, 2025"
+        "description": "April 1st, 2025",
+        "day": "Tuesday"
       }
     },
     "03": {
@@ -1143,127 +1418,158 @@
       "description": "March 2025",
       "31": {
         "name": "31st",
-        "description": "March 31st, 2025"
+        "description": "March 31st, 2025",
+        "day": "Monday"
       },
       "30": {
         "name": "30th",
-        "description": "March 30th, 2025"
+        "description": "March 30th, 2025",
+        "day": "Sunday"
       },
       "29": {
         "name": "29th",
-        "description": "March 29th, 2025"
+        "description": "March 29th, 2025",
+        "day": "Saturday"
       },
       "28": {
         "name": "28th",
-        "description": "March 28th, 2025"
+        "description": "March 28th, 2025",
+        "day": "Friday"
       },
       "27": {
         "name": "27th",
-        "description": "March 27th, 2025"
+        "description": "March 27th, 2025",
+        "day": "Thursday"
       },
       "26": {
         "name": "26th",
-        "description": "March 26th, 2025"
+        "description": "March 26th, 2025",
+        "day": "Wednesday"
       },
       "25": {
         "name": "25th",
-        "description": "March 25th, 2025"
+        "description": "March 25th, 2025",
+        "day": "Tuesday"
       },
       "24": {
         "name": "24th",
-        "description": "March 24th, 2025"
+        "description": "March 24th, 2025",
+        "day": "Monday"
       },
       "23": {
         "name": "23rd",
-        "description": "March 23rd, 2025"
+        "description": "March 23rd, 2025",
+        "day": "Sunday"
       },
       "22": {
         "name": "22nd",
-        "description": "March 22nd, 2025"
+        "description": "March 22nd, 2025",
+        "day": "Saturday"
       },
       "21": {
         "name": "21st",
-        "description": "March 21st, 2025"
+        "description": "March 21st, 2025",
+        "day": "Friday"
       },
       "20": {
         "name": "20th",
-        "description": "March 20th, 2025"
+        "description": "March 20th, 2025",
+        "day": "Thursday"
       },
       "19": {
         "name": "19th",
-        "description": "March 19th, 2025"
+        "description": "March 19th, 2025",
+        "day": "Wednesday"
       },
       "18": {
         "name": "18th",
-        "description": "March 18th, 2025"
+        "description": "March 18th, 2025",
+        "day": "Tuesday"
       },
       "17": {
         "name": "17th",
-        "description": "March 17th, 2025"
+        "description": "March 17th, 2025",
+        "day": "Monday"
       },
       "16": {
         "name": "16th",
-        "description": "March 16th, 2025"
+        "description": "March 16th, 2025",
+        "day": "Sunday"
       },
       "15": {
         "name": "15th",
-        "description": "March 15th, 2025"
+        "description": "March 15th, 2025",
+        "day": "Saturday"
       },
       "14": {
         "name": "14th",
-        "description": "March 14th, 2025"
+        "description": "March 14th, 2025",
+        "day": "Friday"
       },
       "13": {
         "name": "13th",
-        "description": "March 13th, 2025"
+        "description": "March 13th, 2025",
+        "day": "Thursday"
       },
       "12": {
         "name": "12th",
-        "description": "March 12th, 2025"
+        "description": "March 12th, 2025",
+        "day": "Wednesday"
       },
       "11": {
         "name": "11th",
-        "description": "March 11th, 2025"
+        "description": "March 11th, 2025",
+        "day": "Tuesday"
       },
       "10": {
         "name": "10th",
-        "description": "March 10th, 2025"
+        "description": "March 10th, 2025",
+        "day": "Monday"
       },
       "9": {
         "name": "9th",
-        "description": "March 9th, 2025"
+        "description": "March 9th, 2025",
+        "day": "Sunday"
       },
       "8": {
         "name": "8th",
-        "description": "March 8th, 2025"
+        "description": "March 8th, 2025",
+        "day": "Saturday"
       },
       "7": {
         "name": "7th",
-        "description": "March 7th, 2025"
+        "description": "March 7th, 2025",
+        "day": "Friday"
       },
       "6": {
         "name": "6th",
-        "description": "March 6th, 2025"
+        "description": "March 6th, 2025",
+        "day": "Thursday"
       },
       "5": {
         "name": "5th",
-        "description": "March 5th, 2025"
+        "description": "March 5th, 2025",
+        "day": "Wednesday"
       },
       "4": {
         "name": "4th",
-        "description": "March 4th, 2025"
+        "description": "March 4th, 2025",
+        "day": "Tuesday"
       },
       "3": {
         "name": "3rd",
-        "description": "March 3rd, 2025"
+        "description": "March 3rd, 2025",
+        "day": "Monday"
       },
       "2": {
         "name": "2nd",
-        "description": "March 2nd, 2025"
+        "description": "March 2nd, 2025",
+        "day": "Sunday"
       },
       "1": {
         "name": "1st",
-        "description": "March 1st, 2025"
+        "description": "March 1st, 2025",
+        "day": "Saturday"
       }
     },
     "02": {
@@ -1271,115 +1577,143 @@
       "description": "February 2025",
       "28": {
         "name": "28th",
-        "description": "February 28th, 2025"
+        "description": "February 28th, 2025",
+        "day": "Friday"
       },
       "27": {
         "name": "27th",
-        "description": "February 27th, 2025"
+        "description": "February 27th, 2025",
+        "day": "Thursday"
       },
       "26": {
         "name": "26th",
-        "description": "February 26th, 2025"
+        "description": "February 26th, 2025",
+        "day": "Wednesday"
       },
       "25": {
         "name": "25th",
-        "description": "February 25th, 2025"
+        "description": "February 25th, 2025",
+        "day": "Tuesday"
       },
       "24": {
         "name": "24th",
-        "description": "February 24th, 2025"
+        "description": "February 24th, 2025",
+        "day": "Monday"
       },
       "23": {
         "name": "23rd",
-        "description": "February 23rd, 2025"
+        "description": "February 23rd, 2025",
+        "day": "Sunday"
       },
       "22": {
         "name": "22nd",
-        "description": "February 22nd, 2025"
+        "description": "February 22nd, 2025",
+        "day": "Saturday"
       },
       "21": {
         "name": "21st",
-        "description": "February 21st, 2025"
+        "description": "February 21st, 2025",
+        "day": "Friday"
       },
       "20": {
         "name": "20th",
-        "description": "February 20th, 2025"
+        "description": "February 20th, 2025",
+        "day": "Thursday"
       },
       "19": {
         "name": "19th",
-        "description": "February 19th, 2025"
+        "description": "February 19th, 2025",
+        "day": "Wednesday"
       },
       "18": {
         "name": "18th",
-        "description": "February 18th, 2025"
+        "description": "February 18th, 2025",
+        "day": "Tuesday"
       },
       "17": {
         "name": "17th",
-        "description": "February 17th, 2025"
+        "description": "February 17th, 2025",
+        "day": "Monday"
       },
       "16": {
         "name": "16th",
-        "description": "February 16th, 2025"
+        "description": "February 16th, 2025",
+        "day": "Sunday"
       },
       "15": {
         "name": "15th",
-        "description": "February 15th, 2025"
+        "description": "February 15th, 2025",
+        "day": "Saturday"
       },
       "14": {
         "name": "14th",
-        "description": "February 14th, 2025"
+        "description": "February 14th, 2025",
+        "day": "Friday"
       },
       "13": {
         "name": "13th",
-        "description": "February 13th, 2025"
+        "description": "February 13th, 2025",
+        "day": "Thursday"
       },
       "12": {
         "name": "12th",
-        "description": "February 12th, 2025"
+        "description": "February 12th, 2025",
+        "day": "Wednesday"
       },
       "11": {
         "name": "11th",
-        "description": "February 11th, 2025"
+        "description": "February 11th, 2025",
+        "day": "Tuesday"
       },
       "10": {
         "name": "10th",
-        "description": "February 10th, 2025"
+        "description": "February 10th, 2025",
+        "day": "Monday"
       },
       "9": {
         "name": "9th",
-        "description": "February 9th, 2025"
+        "description": "February 9th, 2025",
+        "day": "Sunday"
       },
       "8": {
         "name": "8th",
-        "description": "February 8th, 2025"
+        "description": "February 8th, 2025",
+        "day": "Saturday"
       },
       "7": {
         "name": "7th",
-        "description": "February 7th, 2025"
+        "description": "February 7th, 2025",
+        "day": "Friday"
       },
       "6": {
         "name": "6th",
-        "description": "February 6th, 2025"
+        "description": "February 6th, 2025",
+        "day": "Thursday"
       },
       "5": {
         "name": "5th",
-        "description": "February 5th, 2025"
+        "description": "February 5th, 2025",
+        "day": "Wednesday"
       },
       "4": {
         "name": "4th",
-        "description": "February 4th, 2025"
+        "description": "February 4th, 2025",
+        "day": "Tuesday"
       },
       "3": {
         "name": "3rd",
-        "description": "February 3rd, 2025"
+        "description": "February 3rd, 2025",
+        "day": "Monday"
       },
       "2": {
         "name": "2nd",
-        "description": "February 2nd, 2025"
+        "description": "February 2nd, 2025",
+        "day": "Sunday"
       },
       "1": {
         "name": "1st",
-        "description": "February 1st, 2025"
+        "description": "February 1st, 2025",
+        "day": "Saturday"
       }
     },
     "01": {
@@ -1387,127 +1721,158 @@
       "description": "January 2025",
       "31": {
         "name": "31st",
-        "description": "January 31st, 2025"
+        "description": "January 31st, 2025",
+        "day": "Friday"
       },
       "30": {
         "name": "30th",
-        "description": "January 30th, 2025"
+        "description": "January 30th, 2025",
+        "day": "Thursday"
       },
       "29": {
         "name": "29th",
-        "description": "January 29th, 2025"
+        "description": "January 29th, 2025",
+        "day": "Wednesday"
       },
       "28": {
         "name": "28th",
-        "description": "January 28th, 2025"
+        "description": "January 28th, 2025",
+        "day": "Tuesday"
       },
       "27": {
         "name": "27th",
-        "description": "January 27th, 2025"
+        "description": "January 27th, 2025",
+        "day": "Monday"
       },
       "26": {
         "name": "26th",
-        "description": "January 26th, 2025"
+        "description": "January 26th, 2025",
+        "day": "Sunday"
       },
       "25": {
         "name": "25th",
-        "description": "January 25th, 2025"
+        "description": "January 25th, 2025",
+        "day": "Saturday"
       },
       "24": {
         "name": "24th",
-        "description": "January 24th, 2025"
+        "description": "January 24th, 2025",
+        "day": "Friday"
       },
       "23": {
         "name": "23rd",
-        "description": "January 23rd, 2025"
+        "description": "January 23rd, 2025",
+        "day": "Thursday"
       },
       "22": {
         "name": "22nd",
-        "description": "January 22nd, 2025"
+        "description": "January 22nd, 2025",
+        "day": "Wednesday"
       },
       "21": {
         "name": "21st",
-        "description": "January 21st, 2025"
+        "description": "January 21st, 2025",
+        "day": "Tuesday"
       },
       "20": {
         "name": "20th",
-        "description": "January 20th, 2025"
+        "description": "January 20th, 2025",
+        "day": "Monday"
       },
       "19": {
         "name": "19th",
-        "description": "January 19th, 2025"
+        "description": "January 19th, 2025",
+        "day": "Sunday"
       },
       "18": {
         "name": "18th",
-        "description": "January 18th, 2025"
+        "description": "January 18th, 2025",
+        "day": "Saturday"
       },
       "17": {
         "name": "17th",
-        "description": "January 17th, 2025"
+        "description": "January 17th, 2025",
+        "day": "Friday"
       },
       "16": {
         "name": "16th",
-        "description": "January 16th, 2025"
+        "description": "January 16th, 2025",
+        "day": "Thursday"
       },
       "15": {
         "name": "15th",
-        "description": "January 15th, 2025"
+        "description": "January 15th, 2025",
+        "day": "Wednesday"
       },
       "14": {
         "name": "14th",
-        "description": "January 14th, 2025"
+        "description": "January 14th, 2025",
+        "day": "Tuesday"
       },
       "13": {
         "name": "13th",
-        "description": "January 13th, 2025"
+        "description": "January 13th, 2025",
+        "day": "Monday"
       },
       "12": {
         "name": "12th",
-        "description": "January 12th, 2025"
+        "description": "January 12th, 2025",
+        "day": "Sunday"
       },
       "11": {
         "name": "11th",
-        "description": "January 11th, 2025"
+        "description": "January 11th, 2025",
+        "day": "Saturday"
       },
       "10": {
         "name": "10th",
-        "description": "January 10th, 2025"
+        "description": "January 10th, 2025",
+        "day": "Friday"
       },
       "9": {
         "name": "9th",
-        "description": "January 9th, 2025"
+        "description": "January 9th, 2025",
+        "day": "Thursday"
       },
       "8": {
         "name": "8th",
-        "description": "January 8th, 2025"
+        "description": "January 8th, 2025",
+        "day": "Wednesday"
       },
       "7": {
         "name": "7th",
-        "description": "January 7th, 2025"
+        "description": "January 7th, 2025",
+        "day": "Tuesday"
       },
       "6": {
         "name": "6th",
-        "description": "January 6th, 2025"
+        "description": "January 6th, 2025",
+        "day": "Monday"
       },
       "5": {
         "name": "5th",
-        "description": "January 5th, 2025"
+        "description": "January 5th, 2025",
+        "day": "Sunday"
       },
       "4": {
         "name": "4th",
-        "description": "January 4th, 2025"
+        "description": "January 4th, 2025",
+        "day": "Saturday"
       },
       "3": {
         "name": "3rd",
-        "description": "January 3rd, 2025"
+        "description": "January 3rd, 2025",
+        "day": "Friday"
       },
       "2": {
         "name": "2nd",
-        "description": "January 2nd, 2025"
+        "description": "January 2nd, 2025",
+        "day": "Thursday"
       },
       "1": {
         "name": "1st",
-        "description": "January 1st, 2025"
+        "description": "January 1st, 2025",
+        "day": "Wednesday"
       }
     }
   },
