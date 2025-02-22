@@ -3,7 +3,23 @@
     {
       "id": 1,
       "name": "Beat 1",
-      "description": "Description for Beat 1"
+      "description": "Description for Beat 1. todo: needs to have a duration attribute of some kind, also perhaps a tempo attribute.",
+      "notes": [
+        {
+          "delta_time": 0,
+          "type": "note_on",
+          "note_number": 60,
+          "velocity": 100,
+          "channel": 0
+        },
+        {
+          "delta_time": 240,
+          "type": "note_off",
+          "note_number": 60,
+          "velocity": 0,
+          "channel": 0
+        }
+      ]
     }
   ]
 }

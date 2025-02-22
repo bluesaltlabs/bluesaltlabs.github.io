@@ -1,0 +1,268 @@
+{
+  "types": [
+    "circle",
+    "ellipse",
+    "image",
+    "line",
+    "path",
+    "polygon",
+    "polyline",
+    "rect",
+    "text",
+    "use"
+  ],
+  "shapes": {
+    "circle": {
+      "documentation": "https://www.w3.org/TR/SVG/shapes.html#CircleElement",
+      "attributes": {
+        "cx": {},
+        "cy": {},
+        "r": {}
+      }
+    },
+    "ellipse": {
+      "documentation": "",
+      "attributes": {
+        "cx": {},
+        "cy": {},
+        "rx": {},
+        "ry": {}
+      }
+    },
+    "line": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "path": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "polygon": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "polyline": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "rect": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "text": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "image": {
+      "documentation": "",
+      "attributes": {}
+    },
+    "use": {
+      "documentation": "",
+      "attributes": {}
+    }
+  },
+  "attributes": {
+    "core": {
+      "id": {
+        "documentation": "https://www.w3.org/TR/SVG/struct.html#IDAttribute"
+      },
+      "tabindex": {
+        "documentation": "https://www.w3.org/TR/SVG/struct.html#tabindexattribute"
+      },
+      "lang": {
+        "documentation": "https://www.w3.org/TR/SVG/struct.html#LangAttribute"
+      },
+      "xml:space": {
+        "documentation": "https://www.w3.org/TR/SVG/struct.html#XMLSpaceAttribute"
+      },
+      "class": {
+        "documentation": "https://www.w3.org/TR/SVG/styling.html#ClassAttribute"
+      },
+      "style": {
+        "documentation": "https://www.w3.org/TR/SVG/styling.html#StyleAttribute"
+      }
+    },
+    "aria": {
+      "aria-activedescendant": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-activedescendant"
+      },
+      "role": {
+        "documentation": "https://www.w3.org/TR/SVG/struct.html#RoleAttribute"
+      },
+      "aria-autocomplete": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-autocomplete"
+      },
+      "aria-busy": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-busy"
+      },
+      "aria-checked": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-checked"
+      },
+      "aria-colcount": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-colcount"
+      },
+      "aria-colindex": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-colindex"
+      },
+      "aria-colspan": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-colspan"
+      },
+      "aria-controls": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-controls"
+      },
+      "aria-current": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-current"
+      },
+      "aria-describedby": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-describedby"
+      },
+      "aria-details": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-details"
+      },
+      "aria-disabled": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-disabled"
+      },
+      "aria-dropeffect": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-dropeffect"
+      },
+      "aria-errormessage": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-errormessage"
+      },
+      "aria-expanded": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-expanded"
+      },
+      "aria-flowto": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-flowto"
+      },
+      "aria-grabbed": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-grabbed"
+      },
+      "aria-haspopup": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-haspopup"
+      },
+      "aria-hidden": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-hidden"
+      },
+      "aria-invalid": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-invalid"
+      },
+      "aria-keyshortcuts": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-keyshortcuts"
+      },
+      "aria-label": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-label"
+      },
+      "aria-labelledby": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby"
+      },
+      "aria-atomic": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-atomic"
+      },
+      "aria-live": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-live"
+      },
+      "aria-modal": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-modal"
+      },
+      "aria-multiline": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-multiline"
+      },
+      "aria-multiselectable": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable"
+      },
+      "aria-orientation": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-orientation"
+      },
+      "aria-owns": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-owns"
+      },
+      "aria-placeholder": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-placeholder"
+      },
+      "aria-posinset": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-posinset"
+      },
+      "aria-pressed": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-pressed"
+      },
+      "aria-readonly": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-readonly"
+      },
+      "aria-relevant": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-relevant"
+      },
+      "aria-required": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-required"
+      },
+      "aria-roledescription": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-roledescription"
+      },
+      "aria-rowcount": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-rowcount"
+      },
+      "aria-rowindex": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-rowindex"
+      },
+      "aria-rowspan": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-rowspan"
+      },
+      "aria-selected": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-selected"
+      },
+      "aria-setsize": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-setsize"
+      },
+      "aria-sort": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-sort"
+      },
+      "aria-valuemax": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuemax"
+      },
+      "aria-valuemin": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuemin"
+      },
+      "aria-valuenow": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuenow"
+      },
+      "aria-valuetext": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuetext)"
+      },
+      "aria-level": {
+        "documentation": "https://www.w3.org/TR/wai-aria-1.1/#aria-level"
+      }
+    },
+    "geometric": {
+      "cx": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#CX"
+      },
+      "cy": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#CY"
+      },
+      "r": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#R"
+      },
+      "rx": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#RX"
+      },
+      "ry": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#RY"
+      },
+      "x": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#X"
+      },
+      "y": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#Y"
+      },
+      "width": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+      },
+      "height": {
+        "documentation": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+      }
+    },
+    "event": {
+      "documentation": "https://html.spec.whatwg.org/multipage/webappapis.html#globaleventhandlers"
+    }
+  }
+}
