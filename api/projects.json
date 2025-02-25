@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "description": "Description of Project 1",
+      "status": "active",
+      "tags": [],
+      "tasks": [
+        {
+          "id": 1,
+          "name": "Task 1",
+          "description": "Description of Task 1",
+          "foo": "figure out a way of ranking out long a task will take, like story points?"
+        }
+      ]
+    }
+  ]
+}
